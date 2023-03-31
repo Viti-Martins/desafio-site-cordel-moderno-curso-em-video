@@ -5,6 +5,8 @@ poesia em um site, incluindo efeitos de
 parallax nas imagens aplicadas ao fundo 
 da página.
 
+Todos os direitos referentes ao texto/poesia por *Milton Duarte*
+
 <img src="./imagens/projeto-cordel-paralax.gif" alt="Gif do Projeto">
 
 ## Tecnologias utilizadas:
