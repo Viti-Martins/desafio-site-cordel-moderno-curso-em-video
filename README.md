@@ -5,7 +5,7 @@ poesia em um site, incluindo efeitos de
 parallax nas imagens aplicadas ao fundo 
 da página.
 
-[Gif do projeto](imagens/projeto-cordel-paralax.gif)
+<img src="./imagens/projeto-cordel-paralax.gif" alt="Gif do Projeto">
 
 ## Tecnologias utilizadas:
 
